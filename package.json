@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Creating our first server",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smritimallick/Server.git"
+  },
+  "author": "Smriti Mallick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smritimallick/Server/issues"
+  },
+  "homepage": "https://github.com/smritimallick/Server#readme"
+}
